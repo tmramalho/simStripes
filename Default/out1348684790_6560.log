@@ -1,0 +1,16 @@
+Final result:0.00384588
+0.244104, 0.0175895, 0.355782, 0.268969, 0.358676, 0.981557, 0.773771, 0.994082, 0.979013, 0.823785, 0.943428, 0.463957, 0.309285, 0.131054, 0.0142916, 0.0113232, 0.0108386, 0.0163102
+
+Parameters: 
+     -t numThreads: 2
+        -v verbose: 0
+      -d dimension: 18
+  -b minimum conc.: 0.01
+  -c cooperativity: 4
+              -p p: 2
+        -s \sigma0: 0.01
+             -n N0: 0.01
+ -g numGenerations: 200
+      -u numAgents: 20
+   -a GSS accuracy: 0.01
+
